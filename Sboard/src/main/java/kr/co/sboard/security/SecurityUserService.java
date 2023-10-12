@@ -1,6 +1,6 @@
 package kr.co.sboard.security;
 
-import kr.co.sboard.controller.repository.UserRepository;
+import kr.co.sboard.repository.UserRepository;
 import kr.co.sboard.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
